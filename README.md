@@ -13,7 +13,7 @@
 ---
 
 <div align="center"> 
-    <img src="https://raw.githubusercontent.com/midnight-tea/midnight-tea/master/assets/palette.png" />
+    <img src="https://raw.githubusercontent.com/midnight-tea/.github/master/assets/palette.png" />
     <hr />
     <img src="assets/vscode.png" />
 </div> 
